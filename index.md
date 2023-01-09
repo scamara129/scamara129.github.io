@@ -29,7 +29,7 @@ Scroll down to see some examples of my work. If you would like to connect please
 
 ### Projects
 
-##### [Spotify Recommendation System](https://github.com/scamara129/song_recommendor)
+#### [Spotify Recommendation System](https://github.com/scamara129/song_recommendor)<img src="images/spotify.png?raw=true"/><img src="images/clusters_10.png?raw=true"/>
 This project uses Python to create a Spotify recommendation system by comparing cosine similarity of an input song and all tracks found in this [1.2+ million song dataset](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?reso=) from Kaggle. Clustering, an unsupervised machine learning algorithm, is utilized to reduce the processing time of this system by only comparing the input song to other songs within its cluster. I was inspired to create this to find new songs based on a song I like that is independent from artist or genre, and instead base recommendations on song composition metrics provided by Spotify's API. Some of these metrics include danceability, energy, valence, etc. that may be able to quantify the overall "vibe" of a song. This was a fun project because I got to explore some of Spotify's open developer tools like Spotify for Developers, Spotify API, and the Python package 'spotipy', and listen to some fun new songs that I may not have found otherwise.
  - Skills: Python (pandas, numpy, sklearn, matplotlib), machine learning (unsupervised, clustering), data visualization, data exploration
 
