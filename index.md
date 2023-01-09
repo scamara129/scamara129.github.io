@@ -12,32 +12,19 @@ Now for the fun stuff: hobbies and interests. I am an avid animal lover (pet pic
 
 Scroll down to see some examples of my work. If you would like to connect please feel free to reach out to me at shanleycamara@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/shanley-camara-616420229/).
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Projects
 
-#### [Spotify Recommendation System](https://github.com/scamara129/song_recommendor)<img src="images/spotify.png?raw=true"/><img src="images/clusters_10.png?raw=true"/>
+#### [Spotify Recommendation System](https://github.com/scamara129/song_recommendor)
 This project uses Python to create a Spotify recommendation system by comparing cosine similarity of an input song and all tracks found in this [1.2+ million song dataset](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?reso=) from Kaggle. Clustering, an unsupervised machine learning algorithm, is utilized to reduce the processing time of this system by only comparing the input song to other songs within its cluster. I was inspired to create this to find new songs based on a song I like that is independent from artist or genre, and instead base recommendations on song composition metrics provided by Spotify's API. Some of these metrics include danceability, energy, valence, etc. that may be able to quantify the overall "vibe" of a song. This was a fun project because I got to explore some of Spotify's open developer tools like Spotify for Developers, Spotify API, and the Python package 'spotipy', and listen to some fun new songs that I may not have found otherwise.
- - Skills: Python (pandas, numpy, sklearn, matplotlib), machine learning (unsupervised, clustering), data visualization, data exploration
+- To see the source code and results, go to https://github.com/scamara129/song_recommendor
+- Skills: Python (pandas, numpy, sklearn, matplotlib), machine learning (unsupervised, clustering), data visualization, data exploration
 
-
+#### [Marine Biodiversity in the Gulf of Maine](https://arcg.is/8KP1L)
+The Gulf of Maine is a particular point of interest when it comes to maintaining marine biodiversity. Through this ArcGIS Story Map, I explore the importance of biodiversity in conserving our ecosystems, the species richness and rarity in the Gulf of Maine, and the current government protections in place to conserve species in the Gulf of Maine. 
+- To view the Story Map visit https://arcg.is/8KP1L
+- Skills: GIS (ArcGIS, Story Maps), story telling with data
 
 ---
 
-
-
-
----
