@@ -10,7 +10,7 @@ A passion for data analysis and visualization lead me to specialize in Geospatia
 
 Now for the fun stuff: hobbies and interests. I am an avid animal lover (pet pictures always acceptable), fabric art creator, painter, video game enthusiast, skier, hiker, and powerlifter. Knitting in particular is my favorite art, which is something that I picked up in college and even co-founded and was president of a fabric art club for knitters, crocheters, and people who wanted to learn. I love being able to use my creativity to design and make cozy wearable pieces. Being a New Hampshire resident means that I have access to some beautiful places to ski and hike, and these have ignited a passion for physical fitness. These things have taught me consistency, diligence, and a willingness to learn are all important aspects of both your professional and personal life.
 
-Scroll down to see some examples of my work. If you would like to connect please feel free to reach out to me at shanleycamara@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/shanley-camara-616420229/).
+Scroll down to see some examples of my work. If you would like to connect please feel free to reach out to me at shanleycamara@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/shanley-camara).
 
 ---
 
@@ -18,12 +18,12 @@ Scroll down to see some examples of my work. If you would like to connect please
 
 #### [Spotify Recommendation System](https://github.com/scamara129/song_recommendor)
 This project uses Python to create a Spotify recommendation system by comparing cosine similarity of an input song and all tracks found in this [1.2+ million song dataset](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?reso=) from Kaggle. Clustering, an unsupervised machine learning algorithm, is utilized to reduce the processing time of this system by only comparing the input song to other songs within its cluster. I was inspired to create this to find new songs based on a song I like that is independent from artist or genre, and instead base recommendations on song composition metrics provided by Spotify's API. Some of these metrics include danceability, energy, valence, etc. that may be able to quantify the overall "vibe" of a song. This was a fun project because I got to explore some of Spotify's open developer tools like Spotify for Developers, Spotify API, and the Python package 'spotipy', and listen to some fun new songs that I may not have found otherwise.
-- To see the source code and results, go to https://github.com/scamara129/song_recommendor
+- To see the source code and results, go to [https://github.com/scamara129/song_recommendor](https://github.com/scamara129/song_recommendor)
 - Skills: Python (pandas, numpy, sklearn, matplotlib), machine learning (unsupervised, clustering), data visualization, data exploration
 
 #### [Marine Biodiversity in the Gulf of Maine](https://arcg.is/8KP1L)
 The Gulf of Maine is a particular point of interest when it comes to maintaining marine biodiversity. Through this ArcGIS Story Map, I explore the importance of biodiversity in conserving our ecosystems, the species richness and rarity in the Gulf of Maine, and the current government protections in place to conserve species in the Gulf of Maine. 
-- To view the Story Map visit https://arcg.is/8KP1L
+- To view the Story Map visit [https://arcg.is/8KP1L](https://arcg.is/8KP1L)
 - Skills: GIS (ArcGIS, Story Maps), story telling with data
 
 ---
