@@ -26,5 +26,13 @@ The Gulf of Maine is a particular point of interest when it comes to maintaining
 - To view the Story Map visit [https://arcg.is/8KP1L](https://arcg.is/8KP1L)
 - Skills: GIS (ArcGIS, Story Maps), story telling with data
 
+#### Geospatial Solutions in the Property and Casualty Insurance Industry Poster
+In October 2022 I had the opportunity to help present a poster at the Maine GIS User Group (MEGUG) annual meeting. With the Data team at Insurity, we created a poster presentation giving a brief overview of how we use geospatial data in our work and in the insurance industry. Our poster presentation was voted Best Poster in the professional category. 
+
+'Insurtech' is a portmanteau that describes the relatively new movement within the insurance industry to prioritize technology and data to improve processes and profit. Geographic Information Systems (GIS) and spatial data can provide invaluable insight into property and casualty (P/&C) insurance underwriting and risk management. Improvement the databases analyses that form the foundation of P/&C insurance can affect policy-writing decisions and insurance premium costs. Additionally, geospatial data analysis may help insurers navigate current issues such as climate change.
+- To view LinkedIn post about the poster, visit [here](https://www.linkedin.com/posts/spring-beinema-332a85b0_a-little-over-a-week-ago-i-had-the-opportunity-activity-6995139280561979392-6nda?utm_source=share&utm_medium=member_desktop)
+- Skills: GIS, technical writing, communication
+<img src="images/insuretech_poster.jpg?raw=true"/>
+
 ---
 
