@@ -3,6 +3,7 @@ logo: "/images/linkedin_photo_2022.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist / Data Engineer
   <br> 
+  <br> 
   <a href="https://www.linkedin.com/in/shanley-camara-616420229/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
