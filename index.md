@@ -24,8 +24,8 @@ This project uses Python to create a Spotify recommendation system by comparing 
 - Skills: Python (pandas, numpy, sklearn, matplotlib), machine learning (unsupervised, clustering), data visualization, data exploration
 
 <p float="left">
-  <img src="images/spotify2.png" height = "200" />
-  <img src="images/clusters_10.png" height = "200" />
+  <img src="images/spotify2.png" height = "150" />
+  <img src="images/clusters_10.png" height = "150" />
 </p>
 
 #### [Broadband Usage Modeling](https://github.com/scamara129/broadband_usage)
@@ -34,8 +34,8 @@ Internet accessibility in the United States is greatly important for people to t
 - Skills: R (tidyverse, caret), machine learning (supervised, regression, linear regression, knn, elastic net, pcr), data cleaning, data wrangling, data visualization, data exploration
 
 <p float="left">
-  <img src="images/broadband_hist.png" height = "200" />
-  <img src="images/broadband.png" height = "200" />
+  <img src="images/broadband_hist.png" height = "150" />
+  <img src="images/broadband.png" height = "150" />
 </p>
 
 #### [Marine Biodiversity in the Gulf of Maine](https://arcg.is/8KP1L)
@@ -44,8 +44,8 @@ The Gulf of Maine is a particular point of interest when it comes to maintaining
 - Skills: GIS (ArcGIS, Story Maps), story telling with data
 
 <p float="left">
-  <img src="images/marine_biodiversity.png" height = "200" />
-  <img src="images/marine_legend.png" height = "200" />
+  <img src="images/marine_biodiversity.png" height = "150" />
+  <img src="images/marine_legend.png" height = "150" />
 </p>
 
 #### [Game of Thrones: A Combinatorial Game Using Graph Theory](https://github.com/scamara129/game_of_thrones)
