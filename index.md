@@ -23,15 +23,30 @@ This project uses Python to create a Spotify recommendation system by comparing 
 - To see the source code and results, go to the [GitHub Repository](https://github.com/scamara129/song_recommendor)
 - Skills: Python (pandas, numpy, sklearn, matplotlib), machine learning (unsupervised, clustering), data visualization, data exploration
 
+<p float="left">
+  <img src="images/spotify2.png" width="100" />
+  <img src="images/clusters_10.png" width="100" />
+</p>
+
 #### [Broadband Usage Modeling](https://github.com/scamara129/broadband_usage)
 Internet accessibility in the United States is greatly important for people to thrive in our society. Many rural communities may not even have internet services available at all, let alone the ability to pay and access those services at high speeds. Broadband allows people to access the internet at much faster speeds than other more outdated methods and is accessible at any time. In this project I examined broadband availability and usage by county across the United States, and then predicted broadband usage based on county census data using several machine learning techniques. Features used to predict broadband usage include broadband availability, county population, unemployment rate, percent without health insurance, poverty rate, percent receive SNAP, percent without computer, and percent without internet.
 - To see source code and results, go to the [GitHub Repository](https://github.com/scamara129/broadband_usage)
 - Skills: R (tidyverse, caret), machine learning (supervised, regression, linear regression, knn, elastic net, pcr), data cleaning, data wrangling, data visualization, data exploration
 
+<p float="left">
+  <img src="images/broadband_hist.png" width="100" />
+  <img src="images/broadband.png" width="100" />
+</p>
+
 #### [Marine Biodiversity in the Gulf of Maine](https://arcg.is/8KP1L)
 The Gulf of Maine is a particular point of interest when it comes to maintaining marine biodiversity. Through this ArcGIS Story Map, I explore the importance of biodiversity in conserving our ecosystems, the species richness and rarity in the Gulf of Maine, and the current government protections in place to conserve species in the Gulf of Maine. 
 - To view the Story Map visit [https://arcg.is/8KP1L](https://arcg.is/8KP1L)
 - Skills: GIS (ArcGIS, Story Maps), story telling with data
+
+<p float="left">
+  <img src="images/marine_biodiversity.png" width="100" />
+  <img src="images/marine_legend.png" width="100" />
+</p>
 
 #### [Game of Thrones: A Combinatorial Game Using Graph Theory](https://github.com/scamara129/game_of_thrones)
 A combinatorial game is a game in which there is no randomization (like dice or flipping a coin) and in which there is perfect information, meaning that both players know everything about the state of the game. A combinatorial game played on graphs refers to the pair-wise mathematical structure that represents relationships between objects, typically represented by vertices (the objects) and edges (lines that connect the objects.) 
@@ -40,6 +55,8 @@ The Game of Thrones is a combinatorial game played on a type of graph called a t
 - Read *How to Play* in the README.md file on this [github repository](https://github.com/scamara129/game_of_thrones)
 - To use the GeoGebra applet, visit [https://www.geogebra.org/m/gfc8v9dz](https://www.geogebra.org/m/gfc8v9dz)
 - Skills: JavaScript, GeoGebra, combinatorics, graph theory, game theory, communication
+
+<img src="images/game_app.png" />
 
 #### Geospatial Solutions in the Property and Casualty Insurance Industry Poster
 In October 2022 I had the opportunity to help present a poster at the Maine GIS User Group (MEGUG) annual meeting. With the Data team at Insurity, we created a poster presentation giving a brief overview of how we use geospatial data in our work and in the insurance industry. Our poster presentation was voted Best Poster in the professional category. 
